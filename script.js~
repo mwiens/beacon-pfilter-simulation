@@ -15,7 +15,7 @@ var esitmatedPosition = {x: 0, y: 0, color: "rgba(0,0,255,0.5)"};
 
 
 var simulationParams = {
-    noOfParticles: 100,
+    noOfParticles: 10000,
     movementStdDev: 200, // simulate movement of the target in y direction with gaussian distribution of this st. dev.
     signalRelativeStdDev: 0.10, // signal/error standard deviation relative to distance
     showParticles: true

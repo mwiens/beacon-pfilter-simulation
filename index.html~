@@ -28,6 +28,6 @@
     </div>
 
 </div>
-<canvas id="canvas" width="2000px" height=2000px"></canvas>
+<canvas id="canvas" width="1200px" height=1200px"></canvas>
 </body>
 </html>
